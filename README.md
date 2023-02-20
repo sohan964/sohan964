@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=sohan964&color=blue)
 
 <h3 align="center">
+  I'm a competitive programmer <br>
   I’m currently working on
 </h3>
 
