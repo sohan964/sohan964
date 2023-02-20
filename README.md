@@ -54,7 +54,7 @@ Web technology
 	<a href="https://github.com/sohan964"><img src="https://img.shields.io/github/followers/sohan964.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/sohan964/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.facebook.com/CoderSohan/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
-	<a href="https://www.codeforces.com/profile/Sohan964/"><img src="https://codeforces.org/s/30325/images/codeforces-sponsored-by-ton.png" alt="LinkedIn" width="20" height="50"></a>
+	<a href="https://www.codeforces.com/profile/Sohan964/"><img src="https://codeforces.org/s/30325/images/codeforces-sponsored-by-ton.png" alt="LinkedIn" width="50" height="20"></a>
 </p>
 **Languages and Tools:**  
 
