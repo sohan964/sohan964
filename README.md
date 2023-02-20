@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=mehedi-66&color=blue)
+![](https://komarev.com/ghpvc/?username=sohan964&color=blue)
 
 <h3 align="center">
   I’m currently working on
@@ -51,9 +51,9 @@ Web technology
 </h3>
 
 <p align="center">
-	<a href="https://github.com/mehedi-66"><img src="https://img.shields.io/github/followers/mehedi-66.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/mehedi2020hasan/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://www.facebook.com/mehedi2020hasan/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
+	<a href="https://github.com/sohan964"><img src="https://img.shields.io/github/followers/sohan964.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/sohan964/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.facebook.com/CoderSohan/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
 </p>
 **Languages and Tools:**  
 
@@ -62,6 +62,6 @@ Web technology
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 <p align="center">
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-66&theme=light&hide_langs_below=1" />
- <img src="https://github-readme-stats.vercel.app/api?username=mehedi-66&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan964&theme=light&hide_langs_below=1" />
+ <img src="https://github-readme-stats.vercel.app/api?username=sohan964&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </p>
