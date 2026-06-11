@@ -70,45 +70,7 @@ I am an Odoo Developer passionate about building real-world ERP systems that hel
 | Automation          | Scheduled Actions, Server Actions   |
 | ERP Development     | Custom Modules & Business Workflows |
 
----
 
-## 🏆 Featured Project
-
-# 🎓 School Management System
-
-A complete ERP solution built using Odoo.
-
-### Features
-
-✅ Student Management
-
-✅ Teacher Management
-
-✅ Course Management
-
-✅ Attendance Tracking
-
-✅ Class & Section Management
-
-✅ Role-Based Access Control
-
-✅ Workflow Automation
-
-✅ Reporting System
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
